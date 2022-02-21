@@ -1,0 +1,8 @@
+flask
+Flask-SQLAlchemy
+pandas
+jinja2==2.10.1
+gunicorn
+sklearn
+scikit-image
+
